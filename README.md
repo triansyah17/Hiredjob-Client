@@ -92,7 +92,7 @@ git clone https://github.com/triansyah17/Hiredjob-Client.git
 - Go To Folder Repo
 
 ```
-cd Blanja-Frontend.git
+cd Hiredjob-Client.git
 ```
 
 - Install Module
