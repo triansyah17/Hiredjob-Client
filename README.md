@@ -157,9 +157,9 @@ npm install
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/triansyah17/Hired-API)
+:rocket: [`Backend Hirejob`](https://github.com/triansyah17/Hired-API)
 
-:rocket: [`Frontend Blanja`](https://github.com/triansyah17/Hired-Client)
+:rocket: [`Frontend Hirejob`](https://github.com/triansyah17/Hired-Client)
 
 :rocket: [`Hirejob Demo`](https://Hiredjob-client.vercel.app/)
 
