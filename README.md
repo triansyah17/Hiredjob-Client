@@ -1,3 +1,33 @@
+<div id="top"></div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+ <a href="https://github.com/triansyah17/Hiredjob-Client">
+    <img src="./public/image/logo.png" alt="Logo" width="400px">
+  </a>
+ </div>
+ <div align="center">
+  <br />
+  <br />
+  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  ·
+  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  .
+  <a href="https://github.com/dec0dOS/amazing-github-template/discussions">Ask a Question</a>
+</div>
+
+<div align="center">
+<br />
+
+[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
+
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/triansyah17/)
+
+</div>
+
+<!-- ABOUT THE PROJECT -->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,40 +62,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-<div id="top"></div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
- <a href="https://github.com/triansyah17/Hiredjob-Client">
-    <img src="./public/image/logo.png" alt="Logo" width="400px">
-  </a>
- </div>
- <div align="center">
-  <br />
-  <br />
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/dec0dOS/amazing-github-template/discussions">Ask a Question</a>
-</div>
-
-<div align="center">
-<br />
-
-[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
-
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/triansyah17/)
-
-</div>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-Blanja is a web-based marketplace application. This application allows users to sell products and buy existing products. This Blanja application is built using ReactJs for the frontend, ExpressJS for the backend, and Postgresql for data storage.
 
 ### Built With
 
@@ -117,10 +113,15 @@ npm install
 
   <tr>
     <td><image src="./screenshoot/Register Page.png" alt="Register Page" width=100%></td>
-    <td><image src="./screenshoot/Login Page.png" alt="Login Pagee" width=100%/></td>
   </tr>
    <tr>
     <td>Register Page</td>
+  </tr>
+
+  <tr>
+    <td><image src="./screenshoot/Login Page.png" alt="Login Pagee" width=100%/></td>
+  </tr>
+   <tr>
     <td>Login Page</td>
   </tr>
 
@@ -140,25 +141,19 @@ npm install
 
   <tr>
     <td><image src="./screenshoot/List Pekerja.png" alt="List Pekerja" width=100%></td>
-    <td><image src="./screenshoot/List Perekrut.png" alt="List Perekrut" width=100%></td>
   </tr>
   <tr>
       <td>List Pekerja</td>
+  </tr>
+
+   <tr>
+    <td><image src="./screenshoot/List Perekrut.png" alt="List Perekrut" width=100%></td>
+  </tr>
+  <tr>
       <td>List Perekrut</td>
   </tr>
 </table>
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b improve-blanja`)
-3. Commit your Changes (`git commit -m 'Add some BlanjaFeature'`)
-4. Push to the Branch (`git push origin improve-blanja`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+</table>
 
 ## Related Project
 
@@ -168,18 +163,10 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Hirejob Demo`](https://Hiredjob-client.vercel.app/)
 
-<!-- :rocket: [`Web Service`](https://) -->
-
-<!-- :rocket: [`Demo Blanja`](https://) -->
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
 
 Aditya Triansyah - [linkedin](https://www.linkedin.com/in/triansyah17/) - triansyah.a17@gmail.com
-
-## License
-
-Distributed under the [MIT](/LICENSE) License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
